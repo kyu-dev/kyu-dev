@@ -39,6 +39,6 @@ Compétent à la fois en front-end et back-end, avec un œil attentif à l'expé
 
 ---
 
-<div style="margin: 100px 0; display: flex; justify-content: center;">
+
   ![Codewars](https://github.r2v.ch/codewars?user=kyu-dev&theme=gradient_purple_dark)
-</div>
+
