@@ -17,8 +17,6 @@ Compétent à la fois en front-end et back-end, avec un œil attentif à l'expé
 
 - 💼 Je travaille sur : **Développement d'une plateforme e-commerce avec React et Node.js**  
 - 🌱 J'apprends : **Zustand**  
-- 💬 Pose-moi des questions sur : **JavaScript, React, Node.js, MongoDB, APIs REST**  
-- ⚡ Fun fact : **J'ai déjà débuggué un problème en étant dans une montagne russe !**
 
 ---
 
