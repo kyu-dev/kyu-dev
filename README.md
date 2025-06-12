@@ -33,7 +33,7 @@ Compétent à la fois en front-end et back-end, avec un œil attentif à l'expé
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB" height="28" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL" height="28" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" height="28" />
-  <img src="https://img.shields.io/badge/GoogleADK-4479A1?logo=google&logoColor=white" alt="MySQL" height="28" />
+  <img src="https://img.shields.io/badge/GoogleADK-4479A1?logo=googleadk&logoColor=white" alt="MySQL" height="28" />
 </div>
 
 ---
