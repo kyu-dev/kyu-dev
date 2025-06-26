@@ -5,14 +5,6 @@ Compétent à la fois en front-end et back-end, avec un œil attentif à l'expé
 
 ---
 
-### 📫 Contacte-moi
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ton-profil)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)  
-[![Twitter](https://img.shields.io/badge/Twitter-000000?logo=twitter&logoColor=white)](https://twitter.com/ton-profil)
-
----
-
 ### 🚀 En ce moment
 
 - 💼 Je travaille sur : **Développement d'une plateforme e-commerce avec React et Node.js**  
