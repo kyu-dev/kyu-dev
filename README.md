@@ -6,8 +6,7 @@ J’aime concevoir des solutions élégantes, du front à l’API, en gardant to
 ---
 
 ### 🚀 En ce moment
-- 🌱 J'apprends : **PydanticAI** et les concepts d’**applications agentiques** (MCP, A2A, AG-UI)  
-
+- 🌱 J'apprends : **PydanticAI** et le protocole AG-UI
 ---
 
 ### 🛠️ Compétences
